@@ -2,9 +2,8 @@
 # Olá! Eu sou o Pedro Henrique 🧐
 
 Sou um amante da programação; sempre tive vontade de criar sistemas e páginas web. Estudei por um tempo e me formei em 2023 no Senai, onde desenvolvi a maioria das minhas capacidades de aprendizado e fortaleci ainda mais minha vontade de programar. Atualmente, trabalho como suporte em softwares de TI, mas não deixei de estudar e continuo procurando oportunidades para ingressar na área e me tornar o grande programador que sempre sonhei ser.
-Não tenho estado muito ativo no GitHub e nem no LinkedIn, mas agora vou começar a criar e postar projetos para demonstrar o que sei fazer!
+A partir de  agora vou começar a criar e postar projetos para demonstrar o que sei fazer!
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-080baa247/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peuhenrik/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrooliveira76&show_icons=true&theme=radical)
