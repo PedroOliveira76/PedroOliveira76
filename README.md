@@ -22,7 +22,7 @@ A partir de  agora vou começar a criar e postar projetos para demonstrar o que 
 
 ## No momento estou focado em
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
