@@ -23,7 +23,7 @@ Sou um amante da programação; sempre tive vontade de criar sistemas e páginas
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ## Futuras tecnologias que desejo aprender
