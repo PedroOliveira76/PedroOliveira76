@@ -1,7 +1,7 @@
 
 # Olá! Eu sou o Pedro Henrique 🧐
 
-Sou um amante da programação; sempre tive vontade de criar sistemas e páginas web. Estudei por um tempo e me formei em 2023 no Senai, onde desenvolvi a maioria das minhas capacidades de aprendizado e fortaleci ainda mais minha vontade de programar. Atualmente, trabalho como suporte em softwares de TI, mas não deixei de estudar e continuo procurando oportunidades para ingressar na área e me tornar o grande programador que sempre sonhei ser.
+Sou um amante da programação; sempre tive vontade de criar sistemas e páginas web. Estudei por um tempo e me formei em 2023 no Senai, onde desenvolvi a maioria das minhas capacidades de aprendizado e fortaleci ainda mais minha vontade de programar. Atualmente, trabalho como suporte em softwares de TI e ajudo uma start-up como dev fullstack. Estou cursando ADS na UCSA - Universidade Católica de Salvador e venho sempre aprimorando e obtendo mais conhecimento para ser um grande profissional.
 
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrooliveira76&show_icons=true&theme=radical)
