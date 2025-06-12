@@ -1,7 +1,7 @@
 
-# Olá! Eu sou o Pedro Henrique 🧐
+# Pedro Henrique - Desenvolvedor
 
-Sou um amante da programação; sempre tive vontade de criar sistemas e páginas web. Estudei por um tempo e me formei em 2023 no Senai, onde desenvolvi a maioria das minhas capacidades de aprendizado e fortaleci ainda mais minha vontade de programar. Atualmente, trabalho como suporte em softwares de TI e ajudo uma start-up como dev fullstack. Estou cursando ADS na UCSA - Universidade Católica de Salvador e venho sempre aprimorando e obtendo mais conhecimento para ser um grande profissional.
+Desenvolvedor fullstack com foco em criar aplicações modernas, escaláveis e bem estruturadas. Trabalho com React no frontend e Node/Nest no backend, integrando bancos de dados MySQL e versionando com Git.
 
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrooliveira76&show_icons=true&theme=radical)
